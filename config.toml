@@ -1,4 +1,4 @@
-baseURL = "https://aamdevsecops.github.io"
+baseURL = "/"
 title = "@aamdevsecops"
 theme = "hugo-coder"
 languageCode = "en"
