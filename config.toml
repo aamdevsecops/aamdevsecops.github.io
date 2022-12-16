@@ -10,7 +10,7 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
-publishDir = "docs"
+publishDir = "public"
 
 [params]
 author = "@aamdevsecops"
