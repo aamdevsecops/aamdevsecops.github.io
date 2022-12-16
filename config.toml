@@ -131,14 +131,9 @@ languageName = ":uk:"
 identifier = "about"
 name = "About me"
 weight = 1
-url = "about/"
+url = "content/about/"
 
 [[languages.en.menu.main]]
 name = "Blog"
 weight = 2
-url = "posts/"
-
-[[languages.en.menu.main]]
-name = "Projects"
-weight = 3
-url = "projects/"
+url = "/content/posts/"
