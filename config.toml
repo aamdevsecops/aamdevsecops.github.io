@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 baseURL = "https://aamdevsecops.github.io"
+=======
+baseURL = "https://www.ameti.cloud/"
+>>>>>>> a20c531 (added baseURL and publishDir)
 title = "@aamdevsecops"
 theme = "hugo-coder"
 languageCode = "en"
@@ -10,6 +14,7 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
+publishDir = "docs"
 
 [params]
 author = "@aamdevsecops"
