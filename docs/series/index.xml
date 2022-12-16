@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on @aamdevsecops</title>
-    <link>https://aamdevsecops.github.io/series/</link>
+    <link>https://www.ameti.cloud/series/</link>
     <description>Recent content in Series on @aamdevsecops</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://aamdevsecops.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://www.ameti.cloud/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
