@@ -1,4 +1,4 @@
-baseURL = "localhost:1313/"
+baseURL = "https://aamdevsecops.github.io"
 title = "@aamdevsecops"
 theme = "hugo-coder"
 languageCode = "en"
