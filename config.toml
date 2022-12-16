@@ -1,4 +1,4 @@
-baseURL = "https://www.ameti.cloud/"
+baseURL = "https://aamdevsecops.github.io"
 title = "@aamdevsecops"
 theme = "hugo-coder"
 languageCode = "en"
