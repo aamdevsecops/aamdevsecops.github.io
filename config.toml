@@ -1,5 +1,3 @@
-
-baseURL = "https://aamdevsecops.github.io"
 baseURL = "https://www.ameti.cloud/"
 title = "@aamdevsecops"
 theme = "hugo-coder"
