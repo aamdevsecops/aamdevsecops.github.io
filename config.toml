@@ -1,4 +1,4 @@
-baseURL = "https://www.ameti.cloud"
+baseURL = "https://aamdevsecops.github.io"
 title = "@aamdevsecops"
 theme = "hugo-coder"
 languageCode = "en"
@@ -131,7 +131,7 @@ languageName = ":uk:"
 identifier = "about"
 name = "About me"
 weight = 1
-url = "content/about/"
+url = "/content/about/"
 
 [[languages.en.menu.main]]
 name = "Blog"
