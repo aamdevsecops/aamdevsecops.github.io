@@ -7,7 +7,7 @@ slug = ""
 authors = []
 tags = []
 categories = []
-externalLink = ""
+externalLink = "https://github.com/aamdevsecops/aamdevsecops-terraform"
 series = []
 +++
 
