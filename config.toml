@@ -110,7 +110,7 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
-url = "https://ameti.cloud"
+url = "https://github.com/aamdevsecops"
 
 
 [[params.social]]
@@ -131,9 +131,9 @@ languageName = ":uk:"
 identifier = "about"
 name = "About me"
 weight = 1
-url = "/content/about/"
+url = "about/"
 
 [[languages.en.menu.main]]
 name = "Blog"
 weight = 2
-url = "/content/posts/"
+url = "posts/"
