@@ -129,7 +129,7 @@ languageName = ":uk:"
 [[languages.en.menu.main]]
 name = "About"
 weight = 1
-url = "/"
+url = "about/about.md"
 
 [[languages.en.menu.main]]
 name = "Blog"
