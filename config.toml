@@ -1,7 +1,6 @@
 baseURL = "https://aamdevsecops.github.io"
 title = "@aamdevsecops"
 theme = "hugo-coder"
-languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 20
 pygmentsStyle = "bw"
@@ -10,7 +9,6 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
-publishDir = "docs"
 
 [params]
 author = "@aamdevsecops"
