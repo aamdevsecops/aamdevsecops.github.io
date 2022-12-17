@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2022-12-16T13:16:49+01:00
 title = "Terraform as an automation tool"
 description = ""

@@ -3,7 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://aamdevsecops.github.io/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-16T13:16:49+01:00</lastmod>
+  </url><url>
+    <loc>http://aamdevsecops.github.io/posts/</loc>
+    <lastmod>2022-12-16T13:16:49+01:00</lastmod>
+  </url><url>
+    <loc>http://aamdevsecops.github.io/posts/intro/</loc>
+    <lastmod>2022-12-16T13:16:49+01:00</lastmod>
+  </url><url>
+    <loc>http://aamdevsecops.github.io/about/</loc>
+    <lastmod>2022-12-16T13:16:49+01:00</lastmod>
   </url><url>
     <loc>http://aamdevsecops.github.io/categories/</loc>
     <lastmod>2022-12-16T00:00:00+00:00</lastmod>
@@ -12,9 +21,6 @@
     <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://aamdevsecops.github.io/categories/development/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aamdevsecops.github.io/posts/</loc>
     <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://aamdevsecops.github.io/tags/</loc>

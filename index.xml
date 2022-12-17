@@ -6,7 +6,27 @@
     <description>Recent content on @aamdevsecops</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://aamdevsecops.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Dec 2022 13:16:49 +0100</lastBuildDate><atom:link href="http://aamdevsecops.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terraform as an automation tool</title>
+      <link>http://aamdevsecops.github.io/posts/intro/</link>
+      <pubDate>Fri, 16 Dec 2022 13:16:49 +0100</pubDate>
+      
+      <guid>http://aamdevsecops.github.io/posts/intro/</guid>
+      <description>aamdevsecops-terraformLink to headingThis is a small project to demonstrate infrastructure automation with IaC for a GCP demo project in order to speed up networks, subnets, instances and firewall creation.
+How to useLink to headingterraform init terraform plan terraform apply </description>
+    </item>
+    
+    <item>
+      <title>Welcome to my personal blog</title>
+      <link>http://aamdevsecops.github.io/about/</link>
+      <pubDate>Fri, 16 Dec 2022 13:16:49 +0100</pubDate>
+      
+      <guid>http://aamdevsecops.github.io/about/</guid>
+      <description>IntroductionLink to heading👋 Hi, I’m @aamdevsecops
+I’m interested in cyber security, cloud engineering, DevSecOps, IaC, Linux, securing containers and shift left deployment. skills in Python, HCL (Hashicorp Terraform) and basic Javascript frameworks knowledge (Vue.js, Node.js) Current project: coding, testing, deploying and securing &amp;ldquo;Teamable-App&amp;rdquo; a Vuejs based web application for HR tasks. Open to meet other tech passionates in and around Berlin. 📫 How to reach me: aamdevsecops@pm.me Latest projects:Link to headingTeamable-appLink to headingAn HR application to easily manage employee and HR tasks.</description>
+    </item>
+    
     <item>
       <title>Teamable-App Project</title>
       <link>http://aamdevsecops.github.io/posts/teamble-app/</link>

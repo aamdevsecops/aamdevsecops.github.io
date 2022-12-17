@@ -6,7 +6,17 @@
     <description>Recent content in Posts on @aamdevsecops</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://aamdevsecops.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Dec 2022 13:16:49 +0100</lastBuildDate><atom:link href="http://aamdevsecops.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terraform as an automation tool</title>
+      <link>http://aamdevsecops.github.io/posts/intro/</link>
+      <pubDate>Fri, 16 Dec 2022 13:16:49 +0100</pubDate>
+      
+      <guid>http://aamdevsecops.github.io/posts/intro/</guid>
+      <description>aamdevsecops-terraformLink to headingThis is a small project to demonstrate infrastructure automation with IaC for a GCP demo project in order to speed up networks, subnets, instances and firewall creation.
+How to useLink to headingterraform init terraform plan terraform apply </description>
+    </item>
+    
     <item>
       <title>Teamable-App Project</title>
       <link>http://aamdevsecops.github.io/posts/teamble-app/</link>
