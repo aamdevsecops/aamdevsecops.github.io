@@ -1,7 +1,7 @@
 +++
-author = "Hugo Authors"
-date = "2019-03-04"
-title = "External Page: Hugo Coder Wiki"
+author = "@aamdevsecops"
+date = "2022-12-16"
+title = "Teamable-App Project"
 slug = "hugo-coder-wiki"
 tags = [
     "hugo",
@@ -11,5 +11,5 @@ tags = [
 categories = [
     "Development",
 ]
-externalLink = "https://github.com/luizdepra/hugo-coder/wiki"
+externalLink = "https://github.com/aamdevsecops/teamable-app"
 +++
