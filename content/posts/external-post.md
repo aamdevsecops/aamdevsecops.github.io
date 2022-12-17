@@ -2,9 +2,9 @@
 author = "@aamdevsecops"
 date = "2022-12-16"
 title = "Teamable-App Project"
-slug = "hugo-coder-wiki"
+slug = "teamble-app"
 tags = [
-    "hugo",
+    "teamable",
     "development",
     "themes"
 ]
