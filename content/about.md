@@ -1,14 +1,16 @@
-+++ 
-draft = false
-date = 2022-12-16T13:16:49+01:00
-title = "Welcome to my personal blog"
-description = ""
-slug = "about"
-authors = []
-tags = []
-categories = []
-externalLink = ""
-series = []
++++
+author = "@aamdevsecops"
+date = "2022-12-16"
+title = "intro"
+slug = "intro"
+tags = [
+    "introduction",
+    "devops",
+    "blog"
+]
+categories = [
+    "bio",
+]
 +++
 
 ## Introduction
@@ -43,4 +45,4 @@ This is a project to automate repeatable deployment processes within the Google 
 https://github.com/aamdevsecops/aamdevsecops-terraform (***public repo***)
 
 
-Visit [@aamdevsecops github portfolio](https://ameti.cloud)
+Visit [@aamdevsecops](https//github.com/aamdevsecops)

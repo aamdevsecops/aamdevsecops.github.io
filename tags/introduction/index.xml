@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>introduction on @aamdevsecops</title>
+    <link>http://aamdevsecops.github.io/tags/introduction/</link>
+    <description>Recent content in introduction on @aamdevsecops</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://aamdevsecops.github.io/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>intro</title>
+      <link>http://aamdevsecops.github.io/intro/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://aamdevsecops.github.io/intro/</guid>
+      <description>IntroductionLink to heading👋 Hi, I’m @aamdevsecops
+I’m interested in cyber security, cloud engineering, DevSecOps, IaC, Linux, securing containers and shift left deployment. skills in Python, HCL (Hashicorp Terraform) and basic Javascript frameworks knowledge (Vue.js, Node.js) Current project: coding, testing, deploying and securing &amp;ldquo;Teamable-App&amp;rdquo; a Vuejs based web application for HR tasks. Open to meet other tech passionates in and around Berlin. 📫 How to reach me: aamdevsecops@pm.me Latest projects:Link to headingTeamable-appLink to headingAn HR application to easily manage employee and HR tasks.</description>
+    </item>
+    
+  </channel>
+</rss>
