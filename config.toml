@@ -16,7 +16,7 @@ publishDir = "/"
 [params]
 author = "@aamdevsecops"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "John Doe's personal website"
+description = "aamdevsecops' personal website"
 keywords = "blog,cloud engineer,devops,personal"
 info = ["Aspiring DevSecOps", "Cloud Security Passionate"]
 avatarURL = "https://avatars.githubusercontent.com/u/99119220?s=400&u=0f2b5d119a0e88e2b32840be7e56d5c248440259&v=4"
